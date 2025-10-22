@@ -1,2 +1,2 @@
-# Sistema_Biblioteca
-Repositório de códigos da disciplina Algoritimos e Lógica de Programação para biblioteca
+# programacao-orientada-a-objetos-2s-2025
+Repositório de códigos da disciplina programação orientada a objetos
